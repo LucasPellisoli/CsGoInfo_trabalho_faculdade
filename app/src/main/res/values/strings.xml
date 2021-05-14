@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CsGo - Info</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="guns_name">Nome:</string>
+    <string name="guns_price">Preço:</string>
+    <string name="guns_Kill_award">Recompensa por Kill:</string>
+    <string name="guns_magazine_size">Balas por pente:</string>
+    <string name="btn_save">Salvar</string>
+    <string name="dialog_delete_title">Atenção!</string>
+    <string name="dialog_delete_text">Confirma a exclusão da Arma %1$s! ?</string>
+    <string name="dialog_delete_bnt_confirm">Sim</string>
+    <string name="dialog_delete_bnt_cancel">Cancelar</string>
+
+</resources>
